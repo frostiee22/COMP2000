@@ -1,0 +1,32 @@
+"DM482" "Wiper blades"  "Universal Frameless"  75.00  12
+"ACS704"  "Car Seat Covers" "Black and Grey"  315.00  3
+"CM4149" "Cargo Mats"  "SUV Clear"  500.00  2
+"TC1125"  "Tachometer"   "Water Oil temperature Gauges" 1250.00 1
+"V150" "V Band Clamp" "Super Power 2.5 inches"   345.00   2
+"RCME64"  "Wire Set"   "NGK Exact OEM Fit and Design" 650.00  4
+"$$$$$$"
+C RCME64   5
+d V154
+c CM4149    2
+d CM4149
+P CM4149
+E
+
+
+
+
+
+
+  "K300" "Keyboard" "US Generic" 45     50
+"R576" "16-inch Rims"    "Toyota Verossa"  800.00 48
+"HL412" "Headlight" "Ford Taurus 2010" 600.00 52
+    "E900"    "Engine"      "Hyundai Fuel Injected"    1200.00     8
+   "EM125"   "Engine Mount" "Toyota Camry 2006" 300.00 12
+"FL400" "Fog Lights" "Blue, Nissan Almera" 250.00 36
+"$$$$$$"
+P K300
+  d R576
+c E900 6
+      c EM125 13
+   c FL400 15
+E

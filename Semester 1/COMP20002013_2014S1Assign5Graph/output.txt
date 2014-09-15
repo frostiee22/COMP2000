@@ -1,0 +1,31 @@
+Antigua          : 
+Belarus          : Antigua 50 Canada 15 England 10 
+Canada           : Antigua 20 
+Dominica         : Belarus 80 England 20 France 30 
+England          : Canada 45 Greece 5 
+France           : Belarus 40 England 25 Greece 45 
+Greece           : Canada 15 
+
+Depth-first   : France Belarus Antigua Canada England Greece Dominica 
+Breadth-first : France Belarus England Greece Antigua Canada 
+
+Depth-first   : England Canada Antigua Greece Belarus Dominica France 
+Breadth-first : England Canada Greece Antigua 
+
+
+Minimal cost path from Antigua:
+ to Belarus         : 9999, Path: unreachable
+ to Canada          : 9999, Path: unreachable
+ to Dominica        : 9999, Path: unreachable
+ to England         : 9999, Path: unreachable
+ to France          : 9999, Path: unreachable
+ to Greece          : 9999, Path: unreachable
+
+Minimal cost path from Dominica:
+ to Antigua         :   60, Path: Dominica England Greece Canada Antigua 
+ to Belarus         :   70, Path: Dominica France Belarus 
+ to Canada          :   40, Path: Dominica England Greece Canada 
+ to England         :   20, Path: Dominica England 
+ to France          :   30, Path: Dominica France 
+ to Greece          :   25, Path: Dominica England Greece 
+

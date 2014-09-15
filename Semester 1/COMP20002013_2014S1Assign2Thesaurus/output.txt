@@ -1,0 +1,30 @@
+          Words       Synonyms
+
+          abate       diminish dwindle lessen 
+            bad       healthy robust sound strong tough 
+       bewilder       confound confuse perplex 
+       confound       bewilder confuse perplex 
+        confuse       bewilder confound perplex 
+       diminish       abate dwindle lessen 
+          dwell       live reside 
+        dwindle       abate diminish lessen 
+        healthy       bad robust sound strong tough 
+         lessen       abate diminish dwindle 
+           live       dwell reside 
+        perplex       bewilder confound confuse 
+         repair       
+         reside       dwell live 
+         robust       bad healthy sound strong tough 
+          sound       bad healthy robust strong tough 
+         strong       bad healthy robust sound tough 
+          tough       bad healthy robust sound strong 
+
+
+
+          Words       Synonyms
+
+          abate       diminish dwindle lessen 
+            bad       healthy robust sound strong tough 
+       bewilder       confound confuse perplex 
+          dwell       live reside 
+         repair       

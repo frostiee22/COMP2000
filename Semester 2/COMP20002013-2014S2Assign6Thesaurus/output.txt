@@ -1,0 +1,10 @@
+mend          : fix repair restore 
+restore       : fix mend recondition repair 
+live          : dwell home reside 
+home          : dwell fix live mend recondition repair reside restore 
+dwell         : fix home mend recondition repair reside restore 
+'food' was not found therefore 'soup' was not added 
+'homes' not present in table
+diminish      : abate dwindle lessen 
+lessen        : diminish dwindle 
+dwindle       : abate diminish lessen 

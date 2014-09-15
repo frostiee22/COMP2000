@@ -1,0 +1,38 @@
+[  1] 
+[  2] "Oh, my, Alice said to the Queen, "/*lazy dog
+[  3] while he was static and sleeping....*/  once upon a time: return and register
+[  4] /*There was a little girl /* who asked, "Will I be pretty?" */ to continue
+[  5] There was a little girl */who asked her mother, "Will I be pretty?" *//***
+[  6] Will I be rich? *****/pretty///Register a double effort!
+[  7] Que sera sera,whatever will be, will be...//When I grew up
+[  8] The "future's /*not ours to see",           and fell in love
+
+
+words                line number(s)
+***************************************************************************
+I                     6 
+Que                   7 
+The                   8 
+There                 5 
+Will                  6 
+a                     3 5 
+and                   3 8 
+asked                 5 
+be                    6 7 7 
+fell                  8 
+girl                  5 
+her                   5 
+little                5 
+love                  8 
+mother                5 
+once                  3 
+pretty                6 
+rich                  6 
+sera                  7 7 
+time                  3 
+to                    4 
+upon                  3 
+was                   5 
+whatever              7 
+who                   5 
+will                  7 7 

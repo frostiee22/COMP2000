@@ -1,0 +1,40 @@
+confuse perplex bewilder confound
+reside live dwell
+repair fix
+dwindle abate lessen diminish
+robust healthy sound strong tough
+mend fix restore
+live home
+
+ENDOFSYNONYMS
+
+
+P mend
+A recondition fix
+P restore
+
+P live
+A live mend
+P home
+D live
+P dwell
+A soup food
+A soup home
+P homes
+P diminish
+D abate
+P lessen
+A abate lessen
+P dwindle
+D too 
+
+
+
+E    
+           
+                 
+
+
+
+
+

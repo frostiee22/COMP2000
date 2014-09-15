@@ -1,0 +1,14 @@
+item : P*X NOT ORDERED - stock has 0, order is 5
+item : P*X NOT ORDERED - stock has 0, order is 2
+print: CM4149 not present in Hash table
+
+
+
+		-----> Parts Data <-----
+
+'ACS704Car Seat Covers'  'Car Seat Covers'  'Black and Grey'  '$315.00'  '3'
+'CM4149Cargo Mats'  'Cargo Mats'  'SUV Clear'  '$500.00'  '2'
+'DM482'  'Wiper blades'  'Universal Frameless'  '$75.00'  '12'
+'RCME64Wire Set'  'Wire Set'  'NGK Exact OEM Fit and Design'  '$650.00'  '4'
+'TC1125Tachometer'  'Tachometer'  'Water Oil temperature Gauges'  '$1250.00'  '1'
+'V150'  'V Band Clamp'  'Super Power 2.5 inches'  '$345.00'  '2'
