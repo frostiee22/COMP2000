@@ -23,7 +23,6 @@ struct ListItem *MyList2 = 0;
 
 
 
-
 // Function prototypes
 
 void WordList1(char *word , char *a);
@@ -41,7 +40,6 @@ int main () {
 	char word[WordSize];
 	char a[WordSize];
 	char c[WordSize];
-
 
 
 
