@@ -131,7 +131,7 @@ void insertNode( TreeNodePtr *treePtr, char * value ,int n)
 		
 		}
 		else {
-			printf("%d not inserted, out off memory.\n",value);
+			printf("%s not inserted, out off memory.\n",value);
 		} 
 	}
 	else { // tree not empty
@@ -232,7 +232,7 @@ void Single2(FILE*out,TreeNodePtr treePtr,char *word,int number)
 		Single2(out,treePtr->leftPtr,word,number);
 		
 		if ( (strcmp(word,treePtr->data) != 0) && (treePtr->num == number) && (treePtr->num != -1)){
-			fprintf(out,"%s ",treePtr->data,treePtr->num);
+			fprintf(out,"%s ",treePtr->data);
 			treePtr->num = -1;
 			
 		}
