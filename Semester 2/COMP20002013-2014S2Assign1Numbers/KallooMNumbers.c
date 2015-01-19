@@ -10,7 +10,7 @@ int i;
 int main() {
 
     FILE * test = fopen("input.txt","w");
-        for(i=0;i<10000000;i++)
+        for(i=0;i<1000;i++)
             fprintf(test,"%d\n",i);
         fclose(test);
         printf("*** Finish building list ***\n\n\n");
@@ -39,7 +39,7 @@ int main() {
 	fclose(in);
 	fclose(out);
 
-	system("PAUSE");
+	//system("PAUSE");
 	return 0;
 
 }
